@@ -24,6 +24,6 @@ print("This is True")
 }
 ```
 
-- [] Turn on Github
-- [] Outline my porrfolio
-- [] Learn Node JS
+- [ ] Turn on Github
+- [ ] Outline my porrfolio
+- [ ] Learn Node JS
